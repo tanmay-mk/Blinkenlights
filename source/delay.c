@@ -31,8 +31,8 @@ void delay(int iterations)
 	{
 		for(int k = 0; k<100; k++)
 		{
-			j = 8657;					//1 millisecond is approximately 8657 integer counts
-			while (j--)					//iterations = polling * 100 * 1 msec (integer value 8657)
+			j = 9244;					//1 millisecond is approximately 9244 integer counts
+			while (j--)					//iterations = polling * 100 * 1 msec (integer value 9244)
 			{__asm volatile ("NOP");}
 		} //for
 

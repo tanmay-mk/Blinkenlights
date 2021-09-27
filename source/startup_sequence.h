@@ -1,6 +1,6 @@
 /*******************************************************************************
  * PES Assingment 3
- * File Name: LED_ON.h
+ * File Name: startup_sequence.h
  * Author: Tanmay Mahendra Kothale - tanmay.kothale@colorado.edu (tanmay-mk)
  *********************************************************************************/
 

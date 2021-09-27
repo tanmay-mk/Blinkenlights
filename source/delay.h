@@ -25,11 +25,11 @@
  * @returns: None
  ***************************************************************************
  */
-void delay_infinite(int iterations);
+void delay(int iterations);
 
 /***************************************************************************
  * @brief: this function is used to provide delay of
- * 			'iterations' milliseconds, in the starting sequence loop
+ * 			'iterations' milliseconds
  *
  * @parameters: iterations - number of millisecond delay required
  *
@@ -37,6 +37,5 @@ void delay_infinite(int iterations);
  ***************************************************************************
  */
 
-void delay_startup(int iterations);
 
 #endif /*__MY_DELAY_FUNCTION__*/

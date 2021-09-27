@@ -1,4 +1,4 @@
-source/LED_ON.o source/LED_ON.d: ../source/LED_ON.c ../source/LED_ON.h \
+source/LED_ON.d: ../source/LED_ON.c ../source/LED_ON.h \
  ../source/LED_INIT.h \
  C:\Users\ACER\Documents\MCUXpressoIDE_11.2.0_4120\workspace\PES_Assignments\Blinkenlights\board/board.h \
  C:\Users\ACER\Documents\MCUXpressoIDE_11.2.0_4120\workspace\PES_Assignments\Blinkenlights\board/clock_config.h \
