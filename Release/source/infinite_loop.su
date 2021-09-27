@@ -1,0 +1,2 @@
+infinite_loop.c:58:6:STATE_MACHINE	16	static
+infinite_loop.c:19:6:INFINITE_LOOP	40	static

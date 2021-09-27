@@ -1,0 +1,2 @@
+delay.c:9:6:delay_infinite	32	static
+delay.c:48:6:delay_startup	24	static

@@ -1,0 +1,2 @@
+scheduler.c:15:6:schedulerSetColor	0	static
+scheduler.c:38:10:getNextColor	0	static
