@@ -1,2 +1,2 @@
-scheduler.c:5:6:schedulerSetColor	16	static
-scheduler.c:28:10:getNextColor	16	static
+scheduler.c:15:6:schedulerSetColor	16	static
+scheduler.c:38:10:getNextColor	16	static

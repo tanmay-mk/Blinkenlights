@@ -5,6 +5,7 @@
  *********************************************************************************/
 
 #include "startup_sequence.h"
+#include "LOG.h"
 
 void STARTUP_SEQUENCE()
 {

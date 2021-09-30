@@ -64,6 +64,7 @@ int main(void) {
     BOARD_InitDebugConsole();
 #endif
 
+	Touch_Init();							//initializing touch sensor
     LOG("Touch Sensor Enabled!\n");
     STARTUP_SEQUENCE();
     LOG("Startup Sequence Complete!\nEntering Infinite Loop!\n\n");

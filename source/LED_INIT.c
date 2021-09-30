@@ -35,3 +35,4 @@ void BLUE_LED_INIT()
     PORTD->PCR[BLUE_LED_PIN] |= PORT_PCR_MUX(1);		//choosing port d pin 1 as gpio
     GPIOD->PDDR |= (1 << BLUE_LED_PIN);					//setting pin direction as output
 }
+

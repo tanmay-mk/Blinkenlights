@@ -20,7 +20,7 @@ source/startup_sequence.o source/startup_sequence.d: \
  C:\Users\ACER\Documents\MCUXpressoIDE_11.2.0_4120\workspace\PES_Assignments\Blinkenlights\CMSIS/MKL25Z4.h \
  C:\Users\ACER\Documents\MCUXpressoIDE_11.2.0_4120\workspace\PES_Assignments\Blinkenlights\utilities/fsl_debug_console.h \
  ../source/LED_INIT.h ../source/LED_ON.h ../source/LED_OFF.h \
- ../source/delay.h
+ ../source/delay.h ../source/LOG.h
 
 ../source/startup_sequence.h:
 
@@ -69,3 +69,5 @@ C:\Users\ACER\Documents\MCUXpressoIDE_11.2.0_4120\workspace\PES_Assignments\Blin
 ../source/LED_OFF.h:
 
 ../source/delay.h:
+
+../source/LOG.h:

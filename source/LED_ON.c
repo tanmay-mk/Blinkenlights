@@ -12,19 +12,19 @@
 
 void RED_LED_ON()
 {
-	RED_LED_INIT();							//initializes Red LED
+	RED_LED_INIT();
     GPIOB->PCOR |= (1 << RED_LED_PIN);		//clearing LED bit
 }
 
 void BLUE_LED_ON()
 {
-	BLUE_LED_INIT();						//initializes Red LED
+	BLUE_LED_INIT();
     GPIOD->PCOR |= (1 << BLUE_LED_PIN);		//clearing LED bit
 }
 
 void GREEN_LED_ON()
 {
-	GREEN_LED_INIT();							//initializes Red LED
+	GREEN_LED_INIT();
     GPIOB->PCOR |= (1 << GREEN_LED_PIN);		//clearing LED bit
 }
 

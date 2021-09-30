@@ -15,19 +15,19 @@
 
 void RED_LED_OFF()
 {
-	RED_LED_INIT();							//initializing red led
+	RED_LED_INIT();
 	GPIOB->PSOR |= (1 << RED_LED_PIN);		//setting led bit to 1
 }
 
 void BLUE_LED_OFF()
 {
-	BLUE_LED_INIT();						//initializing blue led
+	BLUE_LED_INIT();
 	GPIOD->PSOR |= (1 << BLUE_LED_PIN);		//setting led bit to 1
 }
 
 void GREEN_LED_OFF()
 {
-	GREEN_LED_INIT();						//initializing green led
+	GREEN_LED_INIT();
 	GPIOB->PSOR |= (1 << GREEN_LED_PIN);	//setting led bit to 1
 }
 
